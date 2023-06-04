@@ -1,0 +1,28 @@
+services:
+  app-service:
+    build: ./services/app
+    container_name: app-service
+    ports:
+      - "4002:4002"
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      JWT_KEY: ${JWT_KEY}
+      DATABASE_URL: ${POSTGRES_URL}
+  users-service:
+    build: ./services/users
+    container_name: users-service
+    ports:
+      - "4001:4001"
+    environment:
+      DATABASE_URL: ${MONGO_URL}
+  orchestrator:
+    build: ./orchestrator
+    container_name: orchestrator
+    environment:
+      CACHE_URL: ${CACHE_URL}
+      CACHE_PASSWORD: ${CACHE_PASSWORD}
+      CACHE_USERNAME: ${CACHE_USERNAME}
+      APP_SERVICE_URL: ${APP_SERVICE_URL}
+      USERS_SERVICE_URL: ${USERS_SERVICE_URL}
+    ports:
+      - "80:80"

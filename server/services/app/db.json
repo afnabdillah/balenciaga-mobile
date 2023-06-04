@@ -1,0 +1,136 @@
+{
+  "authors": [
+    {
+      "username": "admin",
+      "email": "afnabd@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "12345678",
+      "address": "Jakarta"
+    }
+  ],
+  "products": [
+    {
+      "name": "Women's T-shirt Maxi Dress in Black Faded",
+      "description": "T-Shirt Maxi Dress in black peeling stretch jersey",
+      "material" : " 94% cotton, 6% elastane ",
+      "specifications" : "Peeling stretch jersey. Bodycon fit. Double crewneck with ripped-out effect. Short sleeves. Maxi length. Balenciaga logo embroidered at front collar. Made in Portugal. Dry cleaning",
+      "price": 300,
+      "mainImg": "https://balenciaga.dam.kering.com/m/7c3708de3fd21ba9/Large-744730TOVR91055_F.jpg?v=1",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Goth Tailored Jacket in Black",
+      "description": "Goth Tailored Jacket in black cotton twill is from the look 47 of the Balenciaga's Summer 23 Collection. ",
+      "price": 300,
+      "material" : "100% cotton",
+      "specifications" : "Cotton twill.Oversize fit.Notch lapel.2 buttons single-breasted at front.1 piped pocket at chest.2 flap pockets at front.4 button cuffs.1 vent at back.Visible unstitched lining at bottom and sleeves.Worn-out, washed-out and stained effect.4 brooches in antique silver brass and steel with rhinestones.3 brooches in matte antique gold brass and steel with rhinestones.2 brooches in antique gold, red and black brass and steel.1 brooch in brown and light beige resin, antique gold brass and steel.1 brooch in light silver brass and steel.Made in Italy.Dry cleaning.Model is 185 cm / 6'1\" and is wearing a size 4.",
+      "mainImg": "https://balenciaga.dam.kering.com/m/5ecb257271dca659/Large-746409TBP011000_G.jpg?v=1",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Skater Baggy Sweatpants in Grey",
+      "description": "Skater Baggy Sweatpants in grey curly fleece are from the look 58 of the Balenciaga's Summer 23 Collection. ",
+      "price": 300,
+      "material" : "100% cotton",
+      "specifications" : "Skater printed curly fleece.Large fit.Elasticated waistband.2 slash pockets.Football Crest artwork embroidered at front.Fraying effect artwork.Destroyed and dirty effect.Made in Portugal.Dry cleaning.",
+      "mainImg": "https://balenciaga.dam.kering.com/m/538d19e805c298f7/Large-740028TOVA81300_F.jpg?v=1",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "name": "Men's Goth Shirt Oversized in Black",
+      "description": "Goth Shirt Oversized in black cotton twill",
+      "price": 300,
+      "material" : "100% cotton",
+      "specifications" : "Cotton twill.Oversize fit.Button-down collar.7 button front.1 patch pocket at chest.Long sleeves.Buttoned cuffs.Rounded bottom.Balenciaga engraved buttons.Worn-out and stained effect.Made in Italy.Dry cleaning.Model is 180 cm / 5'11\" and is wearing a size 4",
+      "mainImg": "https://balenciaga.dam.kering.com/m/5dc14a85bf2c7ed8/Large-746368TBP011000_G.jpg?v=1",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Women's Knife Tailored Pantashoes in Black",
+      "description": "Knife Tailored Pantashoes in black fluid barathea are from the look 29 of the Balenciaga's Summer 23 Collection. ",
+      "price": 300,
+      "material" : "100% virgin wool",
+      "specifications" : "Fluid barathea.Large fit.Mid-waist.6 belt loops.Covered zip fly.2 slash pockets.New Knife shoe model.110mm arch.Made in Italy.Dry cleaning.Model is 174 cm / 5'8\" and is wearing a FR size 36.Please contact Customer Service for sizing options and recommendation",
+      "mainImg": "https://balenciaga.dam.kering.com/m/5dc14a85bf2c7ed8/Large-746368TBP011000_G.jpg?v=1",
+      "categoryId": 4,
+      "authorId": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "WOMEN'S DRESS",
+      "categoryImgUrl": "https://balenciaga.dam.kering.com/m/25a9b899b0d11cdb/Large-New-Banner-Balenciaga_Summer23_Campaign_Look10_2600x1016px-3x1.jpg"
+    },
+    {
+      "name": "MEN'S SHIRT",
+      "categoryImgUrl": "https://balenciaga.dam.kering.com/m/70e37e9df5a07419/Large-New-Banner-Balenciaga_Summer23_Campaign_Look14_2600x1016px-3x1.jpg"
+    },
+    {
+      "name": "MEN'S PANTS",
+      "categoryImgUrl": "https://balenciaga.dam.kering.com/m/53723dc00eea0c3a/Large-New-Banner-Balenciaga_Summer23_Campaign_Look24_2600x1016px-3x1.jpg"
+    },
+    {
+      "name": "WOMEN'S PANTS",
+      "categoryImgUrl": "https://balenciaga.dam.kering.com/m/2f4cd8f8d2bc064b/Large-New-Banner-Balenciaga_Summer23_campaign_Look07_2600x1016px-3x1.jpg"
+    }
+  ],
+  "images": [
+    {
+      "productId": 1,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/36b343feed070b24/Large-744730TOVR91055_D.jpg?v=1"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/21a83633aa2a0931/Large-746409TBP011000_I.jpg?v=1"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/43eed2e19189c544/Large-746409TBP011000_H.jpg?v=1"
+    },
+    {
+      "productId": 3,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/4697ccb5ac038d1b/Large-740028TOVA81300_D.jpg?v=1"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/74430aabfdf1e4f9/Large-746368TBP011000_I.jpg?v=1"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/d61dfb6fc32eec/Large-746368TBP011000_H.jpg?v=1"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/44faad47a351a8e1/Large-746368TBP011000_J.jpg?v=1"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/5e8af0ab4cabe62b/Large-746368TBP011000_F.jpg?v=1"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/2ee5addc5b39de2a/Large-746368TBP011000_D.jpg?v=1"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/78dae27bf54e6ae8/Large-746541TOT031000_G.jpg?v=1"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/412720de63b6867d/Large-746541TOT031000_I.jpg?v=1"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/50195a5ed70b1cae/Large-746541TOT031000_J.jpg?v=1"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://balenciaga.dam.kering.com/m/470e97fc1436a5a1/Large-746541TOT031000_F.jpg?v=1"
+    }
+  ]
+}
